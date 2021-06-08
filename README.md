@@ -11,5 +11,4 @@ This will be the third commit
  
  git clone https://github.com/<your-github-username>/ag-intro
  cd ag-intro
- conda env create --name=more-map-and-call --file=env.yaml
- make 
+ make conda_env
